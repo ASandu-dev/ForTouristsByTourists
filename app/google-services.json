@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "250388605646",
+    "firebase_url": "https://fortouristsbytourists-9b5c0.firebaseio.com",
+    "project_id": "fortouristsbytourists-9b5c0",
+    "storage_bucket": "fortouristsbytourists-9b5c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250388605646:android:64eedb0abfe30765",
+        "android_client_info": {
+          "package_name": "com.school.fortouristsbytourists"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250388605646-9bkchs4i43g2mrrmlati2ulirle8r00v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.school.fortouristsbytourists",
+            "certificate_hash": "de05415aa7d808537a6db5476e08b430ae069ce6"
+          }
+        },
+        {
+          "client_id": "250388605646-932iiq1rq2q6r40h89dak9ujtgn7tglc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5b-pM7lELz828B21w5eO1WgPx9HPahJk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250388605646-932iiq1rq2q6r40h89dak9ujtgn7tglc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
